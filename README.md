@@ -1,0 +1,1 @@
+SBM SiteCheck v1.4: Supabase Supervisor_mastery preconfigurado. Subir index.html y sbm-logo.png a GitHub Pages. Iniciar sesión con usuario existente de Supabase Auth. Visitas cerradas sincronizan con tablas sitecheck_*; borradores siguen locales. Fotos y seguimiento avanzado pendientes. No usa claves secretas.
